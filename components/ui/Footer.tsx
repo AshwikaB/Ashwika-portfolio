@@ -12,9 +12,6 @@ export default function Footer() {
           <span className="font-mono text-xs text-[#aaa]">{meta.name}</span>
         </div>
         <p className="font-mono text-xs text-[#aaa]">
-          Built with Next.js · Deployed on Vercel
-        </p>
-        <p className="font-mono text-xs text-[#aaa]">
           © {new Date().getFullYear()}
         </p>
       </div>
